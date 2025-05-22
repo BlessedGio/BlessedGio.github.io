@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a252d69eb720a5fc05291064a8eb4cfc",
-"assets/AssetManifest.bin.json": "c368c0e1044474a7a3e2471696e9513c",
-"assets/AssetManifest.json": "7939e37bf7f9e9de05f230be62608b58",
+const RESOURCES = {"assets/AssetManifest.bin": "f4ed05c71556c98af3f0a5b6388497a9",
+"assets/AssetManifest.bin.json": "3a599e0d2df1d1fdd3d9f13adbe1b6fa",
+"assets/AssetManifest.json": "60357aa699e417d67c80aa1f18d8138f",
 "assets/assets/empty.png": "59dd822019125212023a8e4a5246ba69",
+"assets/assets/iconeMeteo/clear.jpg": "794f96071b661444f1b3e6d7803ef274",
 "assets/assets/iconeMeteo/cloud.jpg": "8ef97e5a85a1160fbbac8579b5210611",
 "assets/assets/iconeMeteo/partCloud.jpg": "5610c08f94654b1af7e4995ddf665327",
 "assets/assets/iconeMeteo/partRainy.jpg": "1ba290649ebfec631886468dce7753bc",
@@ -44,14 +45,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "a252d69eb720a5fc05291064a8eb4cfc
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "ff605e00a86d7110ae26ff4624ec0a3f",
+"flutter_bootstrap.js": "a2eb46f03a9edeb4d7c92c3f41255f6f",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "b85d62f9980c33d78609811a584898df",
 "/": "b85d62f9980c33d78609811a584898df",
-"main.dart.js": "5aa52c883fcab08f9f89e3c31649f54d",
+"main.dart.js": "d07fabeb2321bd7d6b03917ef63ff94f",
 "manifest.json": "6075a63af277f064f64818687cde5144",
 "version.json": "3e4ba5b31facdd20cfdb1e160c6d8a82"};
 // The application shell files that are downloaded before a service worker can
