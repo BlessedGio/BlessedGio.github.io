@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0818299f7ff38cc90c9d26343a2ce9c3",
-"assets/AssetManifest.bin.json": "034ec86559c3f605751c94d2c674562f",
-"assets/AssetManifest.json": "2bd3d9b7b32da1d343073f7370a048ff",
+const RESOURCES = {"assets/AssetManifest.bin": "4178f6d8fd9b62689051307732b3eec0",
+"assets/AssetManifest.bin.json": "4a71eb962ce8696f0dd5f83f74f54f35",
+"assets/AssetManifest.json": "304110d70d927bc9bae0bdee920eb77f",
 "assets/assets/empty.png": "59dd822019125212023a8e4a5246ba69",
 "assets/assets/iconeMeteo/clear.jpg": "d2fe33a4afa27478815309949f1b57be",
 "assets/assets/iconeMeteo/cloud.jpg": "8ef97e5a85a1160fbbac8579b5210611",
@@ -21,6 +21,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0818299f7ff38cc90c9d26343a2ce9c3
 "assets/assets/outfit/jeans.png": "f28a4a7b04e845c9b1adedffa560e84b",
 "assets/assets/outfit/light%2520jacket.png": "6f779d6f0ed49bf6f66509d6f9dcbc03",
 "assets/assets/outfit/light%2520pants.png": "5ec42ed865f7d999cf5c9d6a1c70a4af",
+"assets/assets/outfit/sandals.png": "ae6871aa8eab6f18f099de9fb155668c",
 "assets/assets/outfit/scarf.png": "6cd6b1568af246edae0301e06cfd2993",
 "assets/assets/outfit/shirt.png": "be9ca4d31d1f71bc73f298aac28bc4e0",
 "assets/assets/outfit/shorts.png": "b622adf1e9b2ad1b8319d2b1ce6c9380",
@@ -36,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0818299f7ff38cc90c9d26343a2ce9c3
 "assets/assets/outfit/windbreaker.png": "f6fd96344d4a1804acbb32ba18986aa8",
 "assets/assets/outfit/winter%2520coat.png": "5fea3a1376b4fac4e152fbcd38f69d1a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "e2aafacadf870fd867b5bab699af06c3",
+"assets/fonts/MaterialIcons-Regular.otf": "2638b77a58f72bfbba06cadd82479f57",
 "assets/NOTICES": "c917e6e7f529726ef9bacaffa67d88cc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/packages/flutter_map/lib/assets/flutter_map_logo.png": "208d63cc917af9713fc9572bd5c09362",
@@ -55,14 +56,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "0818299f7ff38cc90c9d26343a2ce9c3
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "f42247af578c6aa36df1beb458e9abbd",
+"flutter_bootstrap.js": "12b4ab314dd4df596839799faba493a2",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "b85d62f9980c33d78609811a584898df",
 "/": "b85d62f9980c33d78609811a584898df",
-"main.dart.js": "66c83a35ceec9f26584cb80467a656e3",
+"main.dart.js": "063d104b83c64fc58a97e2922627df12",
 "manifest.json": "6075a63af277f064f64818687cde5144",
 "version.json": "3e4ba5b31facdd20cfdb1e160c6d8a82"};
 // The application shell files that are downloaded before a service worker can
